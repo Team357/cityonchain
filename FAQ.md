@@ -1,8 +1,9 @@
 # cityonchain
 www.cityonchain.com
-English 中文版
 
-issues 反馈入口
+[中文版](https://github.com/Team357/cityonchain/blob/master/README.md)
+
+[issues](https://github.com/Team357/cityonchain/issues)
 
 Cityonchain is an on-chain information center organized around cities, which enables
 classified information sites, local merchant platform, OTA ect. Chaintizens benefit from their activities in cities. We wish all the chaintizens build together, benefit together, and make use of BSV at every corner of the world.
