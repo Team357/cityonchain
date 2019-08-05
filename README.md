@@ -1,9 +1,9 @@
 # cityonchain
 www.cityonchain.com
 
-[English](/FAQ.md) 中文版
+[English version](/FAQ.md)
 
-issues 反馈入口
+[反馈意见入口](https://github.com/Team357/cityonchain/issues)
 
 Cityonchain是一个基于BSV的，以城市为基础入口的链上信息中心。我们是天然的城市社区，分类信息平台，本地商户平台，OTA等等。你可以参与城市的交易，同时在每一个城市中，所有参与者都可以通过在城市里活动获得收益。我们希望与大家一起将BSV传播到世界的各个角落，让链上城市茁壮成长。
 
