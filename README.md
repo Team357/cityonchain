@@ -6,16 +6,14 @@ www.cityonchain.com
 [反馈意见入口](https://github.com/Team357/cityonchain/issues)
 
 Cityonchain是一个基于BSV的，以城市为基础入口的链上信息中心。我们是天然的城市社区，分类信息平台，本地商户平台，OTA等等。你可以参与城市的交易，同时在每一个城市中，所有参与者都可以通过在城市里活动获得收益。我们希望与大家一起将BSV传播到世界的各个角落，让链上城市茁壮成长。
-
+[视频教程](https://mp.weixin.qq.com/s/4jt7xZrIGLkv-trGsyO87Q)
 
 ## 使用指南
 
 ### 注册登录
-Cityonchain是基于BSV的应用，完成的每一步都是一次交易。一起建设前，你需要拥有一个BSV钱包，我们选择了Money Button作为bsv钱包，同时也是你的账户。关于Money Button的注册和使用，请点这里
+Cityonchain是基于BSV的应用，完成的每一步都是一次交易。一起建设前，你需要拥有一个BSV钱包，我们选择了Money Button作为bsv钱包，同时也是你的账户。关于Money Button的注册和使用，[请点这里](https://mp.weixin.qq.com/s/4jt7xZrIGLkv-trGsyO87Q)
 
 
-
-**视频**
 
 您可以按照以下步骤登录cityonchian
 1. 打开www.cityonchain.com ，点击右上角“登录”，自动跳转到Money Button页面
