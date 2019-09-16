@@ -78,7 +78,7 @@ Now we support English and Chinese. You can change it from the bottom left of th
 
 cityonchain not support mobile?  When can I use it on mobile?
 
-Currently, cityonchain can be used on mobile, but loading is slow. You need to change your mobile web browser to "desktop version". We will optimize in August.
+Currently, cityonchain can be used on mobile, but loading is slow. You need to change your mobile web browser to "desktop version". We will optimize in October.
 
 #### How can I promote a local event at Cityonchain?
 
