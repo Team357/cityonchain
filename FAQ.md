@@ -32,7 +32,6 @@ Upon completing the purchase, you need to set a new selling status on the popup 
 
 To access your information page, click your username on the top right corner. There, you can see your account balance, manage your own cities, and check all the transaction records.
 
-There's a 15% commission on city transactions.
 
 
 #### City Apps
